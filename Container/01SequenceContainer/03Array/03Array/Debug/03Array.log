@@ -1,0 +1,3 @@
+﻿  Array.cpp
+f:\c++tsl\container\01sequencecontainer\03array\03array\array.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+  03Array.vcxproj -> F:\C++TSL\Container\01SequenceContainer\03Array\Debug\03Array.exe

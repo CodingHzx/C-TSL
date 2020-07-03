@@ -1,0 +1,3 @@
+﻿  Vector.cpp
+f:\c++tsl\container\01sequencecontainer\01vector\01vector\vector.cpp(21): warning C4018: “<”: 有符号/无符号不匹配
+  01Vector.vcxproj -> F:\C++TSL\Container\01SequenceContainer\01Vector\Debug\01Vector.exe

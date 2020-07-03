@@ -1,0 +1,4 @@
+﻿  Deque.cpp
+f:\c++tsl\container\01sequencecontainer\02deque\02deque\deque.cpp(15): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+f:\c++tsl\container\01sequencecontainer\02deque\02deque\deque.cpp(19): warning C4018: “<”: 有符号/无符号不匹配
+  02Deque.vcxproj -> F:\C++TSL\Container\01SequenceContainer\02Deque\Debug\02Deque.exe
